@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2full.xsl" type="text/xsl" media="screen"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?>
+<!-- generator="wordpress/2.2.2" -->
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Resonator Magazine</title>
+		<link>http://www.resonatormag.com</link>
+		<description>Resonator -- we know things.</description>
+		<pubDate>Fri, 16 Jan 2009 21:19:37 +0000</pubDate>
+		<generator>http://wordpress.org/?v=2.2.2</generator>
+		<language>en</language>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/Resonator" type="application/rss+xml"/>
+		<feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.rojo.com/add-subscription?resource=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://blog.rojo.com/RojoWideRed.gif">Subscribe with Rojo</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Resonator" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://my.feedlounge.com/external/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://static.feedlounge.com/buttons/subscribe_0.gif">Subscribe with FeedLounge</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.newsalloy.com/?rss=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.newsalloy.com/subrss3.gif">Subscribe with NewsAlloy</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.yourminis.com/subscribe.aspx?u=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.yourminis.com/images/addtoyourminisbadge.gif">Subscribe with Yourminis.com</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://download.attensa.com/app/get_attensa.html?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.attensa.com/blogs/attensa/WindowsLiveWriter/BadgeredintoBadges_10C02/attensa_feed_button5.gif">Subscribe with Attensa for Outlook</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare>
+		<feedburner:feedFlare href="http://hub.netomat.net/account/account.autoSubscribe.jspa?urls=http%3A%2F%2Ffeeds.feedburner.com%2FResonator" src="http://www.netomat.net/blogger/images/icon_netomat_feedbutton.gif">Subscribe with netomat Hub</feedburner:feedFlare>
+		<item>
+			<title>Barack ‘n’ Roll Obama-Rama Dance Party (+Remix 38)</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/514296408/</link>
+			<comments>http://www.resonatormag.com/2009/01/16/barack-n-roll-obama-rama-dance-party-remix-38/#comments</comments>
+			<pubDate>Fri, 16 Jan 2009 19:30:33 +0000</pubDate>
+			<dc:creator>hacks</dc:creator>
+			<category><![CDATA[Hey Champ]]></category>
+			<category><![CDATA[Yolanda Be Cool]]></category>
+			<category><![CDATA[Yello Fever]]></category>
+			<category><![CDATA[ALFA]]></category>
+			<category><![CDATA[Keenhouse]]></category>
+			<category><![CDATA[KillaQueenz]]></category>
+			<category><![CDATA[Nacho Lovers]]></category>
+			<category><![CDATA[Deejay Hacks]]></category>
+			<category><![CDATA[Thunderheist]]></category>
+			<category><![CDATA[The Tank]]></category>
+			<category><![CDATA[Binary]]></category>
+			<category><![CDATA[Mp3]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2009/01/16/barack-n-roll-obama-rama-dance-party-remix-38/</guid>
+			<description><![CDATA[
+This Saturday (tomorrow the 17th) come ring in the new presidency with a dance party! Hosted by The Tank, and put together by myself (with help with from Robot Hands) it should be a fun night of cheap drinks, dancing and celebration.
+Barack &#8216;n&#8217; Roll Obama-Rama Dance Party
+January 17, 2009 10:00pm
+The Tank @ 354 West 45th [...]]]></description>
+			<content:encoded><![CDATA[<div align="center"><a href=''http://www.resonatormag.com/wp-content/uploads/2009/01/barocknroll.jpg' title='The Tank Presents: Barack n Roll Obama-Rama Dance Party'><img src='http://www.resonatormag.com/wp-content/uploads/2009/01/barocknroll_200.jpg' alt='The Tank Presents: Barack n Roll Obama-Rama Dance Party' /></a><a href=''http://www.resonatormag.com/wp-content/uploads/2009/01/barocknroll.jpg' title='The Tank Presents: Barack n Roll Obama-Rama Dance Party'><img src='http://www.resonatormag.com/wp-content/uploads/2009/01/barocknroll_200.jpg' alt='The Tank Presents: Barack n Roll Obama-Rama Dance Party' /></a></div>
+<p>This Saturday (tomorrow the 17th) come ring in the new presidency with a dance party! Hosted by <a href="http://thetanknyc.org/">The Tank</a>, and put together by myself (with help with from <a href="http://ihaverobothands.blogspot.com/">Robot Hands</a>) it should be a fun night of cheap drinks, dancing and celebration.</p>
+<p><strong>Barack &#8216;n&#8217; Roll Obama-Rama Dance Party</strong><br />
+January 17, 2009 10:00pm<br />
+The Tank @ 354 West 45th St<br />
+New York, NY 10036 (<a href="http://maps.google.com/maps?f=q&#038;hl=en&#038;q=354+West+45th+St%2C+New+York%2C+NY" target="_blank">map</a>)<br />
+<a href="http://www.facebook.com/event.php?eid=115878525580">RSVP On Facebook</a> | <a href="http://newyork.going.com/event-521046;Barack_n_Roll_Obama-Rama_Dance_Party">RSVP On Going</a></p>
+<p>We picked up local Brooklyn DJ <a href="http://www.myspace.com/djconquerrah">Tony Conquerrah</a> to throw down some dancehall, breaks and old school hip-hop jams throughout the night. With a diverse background and years of experience behind the desck, expect some great things for the night. You can currently find him on the front page of <a href="http://www.brooklynradio.net/">Brooklyn Radio</a> or throwing down in a club near you.</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/DJ Conquerrah - Concrete Thumpin.mp3">DJ Conquerrah - Concrete Thumpin&#8217;</a><br />
+LINKS <a href="http://www.myspace.com/djconquerrah">MySpace</a> | <a href="www.facebook.com/people/Tony-Conquerrah/1317761619">Facebook</a> | <a href="http://www.brooklynradio.net/wake-the-town-tell-the-people/">Brooklyn Radio</a> | <a href="http://rescueteamnyc.blogspot.com">Rescue Team NYC</a></p>
+<p>To compliment this, we picked the stand-out philly-based breaker crew <a href="http://www.myspace.com/illadelphlave">iLLadelph Phlave</a> to help join the celebration and inspire some dance floor frenzy. </p>
+<div align="center"><object width="425" height="344">
+<param name="movie" value="http://www.youtube.com/v/-nGM10SLmjk&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;feature=player_embedded&#038;fs=1"></param>
+<param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/-nGM10SLmjk&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></div>
+<p>Plus Trixie and I will be combining forces for a set of signature Resonator-style tracks for your dancing pleasure. So check out the full details on <a href="http://www.facebook.com/event.php?eid=115878525580">Facebook</a> or <a href="http://newyork.going.com/event-521046;Barack_n_Roll_Obama-Rama_Dance_Party">Going</a> and hopefully we&#8217;ll see you there!</p>
+<p>Also&#8230; its Friday! Here&#8217;s some remixes (and you thought I&#8217;d given up?)</p>
+<p>Chicago&#8217;s <a href="http://www.myspace.com/heychamp">Hey Champ</a> have been on the radar for a while, playing a recent set here for the <a href="http://www.thecultureofme.com">Culture of Me</a>&#8217;s 3 year anniversary. There&#8217;s some great remixes of this track around, but I&#8217;ve been digging this <a href="http://www.myspace.com/iwantyellofever">Yello Fever</a> one recently:</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/Hey Champ - Cold Dust Girl (Yello Fever Refix).mp3">Hey Champ - &#8220;Cold Dust Girl (Yello Fever Refix)&#8221;</a><br />
+LINKS: <a href="http://www.myspace.com/heychamp">Hey Champ</a> | <a href="http://www.myspace.com/iwantyellofever">Yello Fever</a> | <a href="http://redthreat.wordpress.com/2008/12/08/kickstart/">Thanks To Redthreat!</a></p>
+<p><a href="http://www.myspace.com/zdisco">Alfa</a> (of <a href="http://www.resonatormag.com/tags/artists/the-kids-are-radioactive/">The Kids Are Radioactive</a> fame) hit us up with a remix he did for <a href="http://www.myspace.com/keenhouse">Keenhouse</a> a little while back and I just haven&#8217;t gotten around to sharing it.. well here it is! Its a synthed out 80s-style dance-jam that makes a great addition to anyone&#8217;s crate:</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/Keenhouse - Deep in the Forest (Alfa Remix).mp3">Keenhouse - &#8220;Deep in the Forest (Alfa Remix)&#8221;</a><br />
+LINKS: <a href="http://www.myspace.com/keenhouse">Keenhouse</a> | <a href="http://www.myspace.com/zdisco">Alfa</a> | <a href="http://www.resonatormag.com/tags/labels/binary/">Binary</a> (More binary to come shortly..)</p>
+<p>Gotta love some good krunktronica &#8211;now featuring more house! <a href="http://www.myspace.com/yolandabecool">Yolanda Be Cool</a> FTW on this track.</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/KillaQueenz - Bitches (Yolanda Be Cool Techy remix).mp3">KillaQueenz - &#8220;Bitches (Yolanda Be Cool Techy remix)&#8221;</a><br />
+LINKS: <a href="http://www.myspace.com/killarqueenz">KillaQueenz</a> | <a href="http://www.myspace.com/yolandabecool">Yolanda Be Cool</a></p>
+<p>I haven&#8217;t talked about <a href="http://www.thunderheist.com/">Thunderheist</a> <a href="http://www.resonatormag.com/tags/artists/thunderheist/">in forevar</a>! but <a href="http://www.myspace.com/nacholovers">Nacho Lovers</a> comes back with a new remix of their blog-classic &#8220;Jerk It&#8221;. They&#8217;ve got their album dropping on March 31st.. so keep your ears peeled.</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/Thunderheist - Jerk It (Nacho Lovers Remix).mp3">Thunderheist - &#8220;Jerk It (Nacho Lovers Remix)&#8221;</a><br />
+LINKS: <a href="http://myspace.com/thunderheist">Thunderheist</a> | <a href="http://www.myspace.com/nacholovers">Nacho Lovers</a> | <a href="http://www.resonatormag.com/tags/artists/thunderheist">Previous Thunderheist Coverage&#8230;</a></p>
+<p>&lt; hacks/ &gt;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=GIu4a4.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=GIu4a4.P" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=sE8LAc.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=sE8LAc.P" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/514296408" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2009/01/16/barack-n-roll-obama-rama-dance-party-remix-38/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2009%2F01%2F16%2Fbarack-n-roll-obama-rama-dance-party-remix-38%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2009/01/16/barack-n-roll-obama-rama-dance-party-remix-38/</feedburner:origLink>
+		</item>
+		<item>
+			<title>Hate this city</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/513014820/</link>
+			<comments>http://www.resonatormag.com/2009/01/15/hate-this-city/#comments</comments>
+			<pubDate>Thu, 15 Jan 2009 15:40:54 +0000</pubDate>
+			<dc:creator>shaun bateman</dc:creator>
+			<category><![CDATA[Handsome Furs]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2009/01/15/hate-this-city/</guid>
+			<description><![CDATA[
+Handsome Furs: All we want, baby, is everything 
+That photo of Handsome Furs&#8217; Dan and Alexei is instant, moody, sexy brilliance.And, just one time through Handsome Furs forthcoming Face Control,I can say it evokes a similar response. Mixing a gloriously heady stew of cheap synths and fuzzy rock with Dan&#8217;s pained yelps, Face Control is [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.resonatormag.com/wp-content/uploads/2009/01/handsomefurs_0.jpg" alt="handsomefurs_0.jpg" width="311" height="467" /></p>
+<p><a href="http://www.resonatormag.com/music/handsome_furs_-all_we_want_baby_is_everything.mp3">Handsome Furs: All we want, baby, is everything </a></p>
+<p>That photo of Handsome Furs&#8217; Dan and Alexei is instant, moody, sexy brilliance.And, just one time through Handsome Furs forthcoming <em>Face Control,</em>I can say it evokes a similar response. Mixing a gloriously heady stew of cheap synths and fuzzy rock with Dan&#8217;s pained yelps, <em>Face Control </em>is gleefully imperfect. I don&#8217;t throw this comparison around a lot, if ever, but it sounds more like a New Order record than any of the recent attempts by bands at actually mimicking New Order records, and no more so than on &#8220;All We Want, Baby, Is Everything&#8221;. Lyrically, musically,  well, everything, really, is a worn-at-the-edges but beautiful-in-the-center sunrise ode to&#8230;something. Doesn&#8217;t matter. It&#8217;s about the feeling that&#8217;s generated (another thing that, obvious, New Order was about-we all know what happens when you try to isolate Bernie&#8217;s lyrics from the music&#8230;), and this song nails and bundles so many of &#8216;em. It soundtracks that picture and makes something a little scary and a little sexy and a little dark and pretty and fierce.</p>
+<p><a href="http://www.subpop.com/artists/handsome_furs">Handsome Furs at Sub-Pop </a></p>
+<p>(<a href="http://www.pitchforkmedia.com/article/feature/147517-the-year-in-photos-2008?page=2">Photo Credit: Pitchfork</a>. Ugh, I know, but god it&#8217;s a good photo)</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=G8mbdt.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=G8mbdt.P" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=AS66TD.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=AS66TD.P" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/513014820" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2009/01/15/hate-this-city/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2009%2F01%2F15%2Fhate-this-city%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2009/01/15/hate-this-city/</feedburner:origLink>
+			<enclosure url="http://feeds.feedburner.com/~r/Resonator/~5/513014821/handsome_furs_-all_we_want_baby_is_everything.mp3" length="4593035" type="audio/mpeg"/>
+			<feedburner:origEnclosureLink>http://www.resonatormag.com/music/handsome_furs_-all_we_want_baby_is_everything.mp3</feedburner:origEnclosureLink>
+		</item>
+		<item>
+			<title>New Rex The Dog Video!</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/512006276/</link>
+			<comments>http://www.resonatormag.com/2009/01/14/new-rex-the-dog-video/#comments</comments>
+			<pubDate>Wed, 14 Jan 2009 16:46:54 +0000</pubDate>
+			<dc:creator>hacks</dc:creator>
+			<category><![CDATA[videos]]></category>
+			<category><![CDATA[Rex The Dog]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2009/01/14/new-rex-the-dog-video/</guid>
+			<description><![CDATA[What kind of internet friend would I be if I didn&#8217;t put up the new Rex The Dog Video? (a terrible one, that&#8217;s what!)
+So here&#8217;s the new -and as always- adorably awesome video for &#8220;Bubblicious&#8221;
+
+
+
+
+
+Rex the Dog Vimeo Channel &#124; Previous Rex The Dog Coverage
+&#60; hacks / &#62;
+]]></description>
+			<content:encoded><![CDATA[<p>What kind of internet friend would I be if I didn&#8217;t put up the new <a href="http://rexthedog.net">Rex The Dog</a> Video? (a terrible one, that&#8217;s what!)</p>
+<p>So here&#8217;s the new -and as always- adorably awesome video for &#8220;Bubblicious&#8221;</p>
+<p><object width="549" height="309">
+<param name="allowfullscreen" value="true" />
+<param name="allowscriptaccess" value="always" />
+<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2772480&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=ff0179&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=2772480&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=ff9933&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="549" height="309"></embed></object><br />
+<br/><br />
+<a href="http://vimeo.com/therexthedogshow">Rex the Dog Vimeo Channel</a> | <a href="http://www.resonatormag.com/tags/artists/rex-the-dog/">Previous Rex The Dog Coverage</a></p>
+<p>&lt; hacks / &gt;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=JBwlFb.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=JBwlFb.P" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=XTllk4.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=XTllk4.P" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/512006276" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2009/01/14/new-rex-the-dog-video/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2009%2F01%2F14%2Fnew-rex-the-dog-video%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2009/01/14/new-rex-the-dog-video/</feedburner:origLink>
+		</item>
+		<item>
+			<title>Personality Crisis: Tuesdays are for Partying</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/510959031/</link>
+			<comments>http://www.resonatormag.com/2009/01/13/personality-crisis-tuesdays-are-for-partying/#comments</comments>
+			<pubDate>Tue, 13 Jan 2009 16:22:46 +0000</pubDate>
+			<dc:creator>hacks</dc:creator>
+			<category><![CDATA[Personality Crisis]]></category>
+			<category><![CDATA[SHAPES]]></category>
+			<category><![CDATA[Mp3]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2009/01/13/personality-crisis-tuesdays-are-for-partying/</guid>
+			<description><![CDATA[
+Tonight brings us the first first offering of Personality Crisis &#8211;a new monthly PARTY featuring 4 local bands and a full on night of deejaying. Aiming to be unified in form, the goal is to bring people together in an all night lover affair with the music. Its an all ages event and it premiers [...]]]></description>
+			<content:encoded><![CDATA[<div align="center"><img src='http://www.resonatormag.com/wp-content/uploads/2009/01/pcrisis.jpg' alt='Personality Crisis @ Crash Mansion' /><img src='http://www.resonatormag.com/wp-content/uploads/2009/01/pcrisis.jpg' alt='Personality Crisis @ Crash Mansion' /></div>
+<p>Tonight brings us the first first offering of <a href="http://www.facebook.com//event.php?eid=57214470090">Personality Crisis</a> &#8211;a new monthly PARTY featuring 4 local bands and a full on night of deejaying. Aiming to be unified in form, the goal is to bring people together in an all night lover affair with the music. Its an all ages event and it premiers tonight! 8:30-??  @ <a href="http://www.crashmansion.com/">Crash Mansion</a>. Hosted by Brooklyn&#8217;s glam-punk darlings <a href="http://www.myspace.com/shapesband">SHAPES</a>, its poised to be a night to remember.</p>
+<p><a href="http://www.resonatormag.com/music/2009/01/Shapes - Shadows &#038; Schisms Dancing In Prisms.mp3">Shapes - &#8220;Shadows &#038; Schisms Dancing In Prisms&#8221;</a></p>
+<p>To quote directly from the source:</p>
+<blockquote><p>
+THIS IS IT. This is the culmination of my dreams and goals for the last four years. This is the crowning achievement the New York City Scene needs. WE need our own world; and this is it.</p></blockquote>
+<p>This month features the aforementioned <a href="http://www.myspace.com/shapesband">SHAPES</a>, plus <a href="http://www.myspace.com/theamericansnyc">The Americans</a>, <a href="http://www.myspace.com/chewingpics">Chewing Pics</a> (Naima from America&#8217;s Next Top Model), and <a href="http://www.myspace.com/sweetietheband">Sweetie</a> plus DJ Theo for all your dancing needs. The event is $8, and 18+, but if you are 21+ there is an OPEN BAR from 10-11. So, you know&#8230; come early and get krunk.</p>
+<p>Check out the full event details via <a href="http://www.facebook.com/event.php?eid=57214470090">Facebook</a> or just swing on by Crash Mansion tonight and find me &#8211;I&#8217;ll be the dude with the pink spiky hair.</p>
+<p>&lt; hacks /&gt;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=lgtMlx.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=lgtMlx.P" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=NIPQ6f.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=NIPQ6f.P" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/510959031" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2009/01/13/personality-crisis-tuesdays-are-for-partying/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2009%2F01%2F13%2Fpersonality-crisis-tuesdays-are-for-partying%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2009/01/13/personality-crisis-tuesdays-are-for-partying/</feedburner:origLink>
+		</item>
+		<item>
+			<title>Adjust your eyes to the state of things</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/505364061/</link>
+			<comments>http://www.resonatormag.com/2009/01/07/adjust-your-eyes-to-the-state-of-things/#comments</comments>
+			<pubDate>Wed, 07 Jan 2009 16:12:58 +0000</pubDate>
+			<dc:creator>shaun bateman</dc:creator>
+			<category><![CDATA[Deerhunter]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2009/01/07/adjust-your-eyes-to-the-state-of-things/</guid>
+			<description><![CDATA[It is, in fact, 2009. Yes, that&#8217;s true, and the flurry of superfluous and not-so-superfluous ranting and raving about those guys who sit in a hippie Korg Circle and sing songs about blades of grass and pit-sweat and their album that is apparently the album of the FOREVER (which, I mean, was something that had [...]]]></description>
+			<content:encoded><![CDATA[<p>It is, in fact, 2009. Yes, that&#8217;s true, and the flurry of superfluous and not-so-superfluous ranting and raving about those guys who sit in a hippie Korg Circle and sing songs about blades of grass and pit-sweat and their <a href="http://www.pitchforkmedia.com/article/record_review/148230-animal-collective-merriweather-post-pavilion">album that is apparently the album of the FOREVER</a> (which, I mean, was something that had been predicted <a href="http://www.resonatormag.com/2008/04/20/tickle-vultures/">the first time it leaked, straight from their imaginations</a>) and which will serve to divide Resonator Mag in half until someone concedes that<a href="http://www.thefader.com/articles/2009/1/6/audio-animal-collective-my-girls"> that one song is pretty good</a>.</p>
+<p>That said, I&#8217;ve come to realize that there was an album that pretty much dominated me for &#8216;08, in the way that an album, as in a cohesive set of songs flowing from one to the other and causing a repeated, addictive desire for a re-start of the entire chronology once it&#8217;s completed its&#8217; cycle.  For me, in 2008 (and still, bleeding into the edges of 09 as we wait for something other than <em>Merriweather Post Pavilion</em> to surface), that album was the double-disc set of Deerhunter&#8217;s <em>Microcastle/Weird Era Cont</em>.</p>
+<p><img src="http://cache.daylife.com/imageserve/02RRfNgekt9la/340x.jpg" width="340" height="340" /></p>
+<p><a href="http://www.resonatormag.com/music/deerhunter-nothing_ever_happened.mp3">Deerhunter: Nothing Ever Happened</a></p>
+<p>Beyond being my favorite album of 2008, <em>Microcastle </em> contains within it my hands-down favorite song of 2008, &#8220;Nothing Ever Happened&#8221;. The song&#8217;s swirling, melodic, psych-emotive genius perfectly encapsulates what works from start to finish on the rest of the album. As Bradford sings of small-town ennui and an outlook of expecting nothing from nothing, I&#8217;m pulled back to my hometown of Marietta, GA-interestingly enough a city that surfaces, if not in name than in thematic reference, in a handful of Deerhunter songs and certainly plays a part in their musical mythos. Marietta&#8217;s class-angst, so much potential and so little to do, so much hope and so little way for the dreaming to escape, IS what the sound of &#8220;Nothing Ever Happened&#8221; is, only, within Bradford&#8217;s song, the hope escapes out and into&#8230;something.  The lyrics, like &#8220;focus on the depths that were never there/eliminate what you can&#8217;t repair&#8221;, take the rest of <em>Microcastle</em>&#8217;s  Proustian qualities of bedroom stasis and actually force it into a sort of hesitant motion, in which you get the feeling that the song is pulling Bradford, rather than operating under his direction.  This, perfectly, is the sound of the small town of Marietta, Georgia. This is the sound I heard growing up.</p>
+<p>There was a damn fantastic version of this played at the <em>Microcastle</em> release show in Atlanta on Halloween &#8216;08, and <a href="http://southernshelter.com/2008/11/deerhunter-variety-playhouse-103108.html">Southern Shelter has great audio recordings</a> of all of it. I highly recommend the entire concert, front-to-back.</p>
+<p><a href="http://www.resonatormag.com/music/deerhunter-never_stops_platts_island_session.mp3">Deerhunter: Never Stops (Platt&#8217;s Island Sessions)</a></p>
+<p>One of the other stickiest songs on <em>Microcastle</em>  is the subtle, slowly-pacing-itself &#8220;Never Stops&#8221;. The night of <em>Microcastle</em>&#8217;s release in Atlanta, Bradford unveiled a strictly limited cassette of recordings he&#8217;d done solo, on an island somewhere, of Deerhunter music. These recordings wrap the original tunes in a cold sheen of night, and this version of &#8220;Never Stops&#8221; is sheer narcotic bliss.</p>
+<p><a href="http://www.resonatormag.com/music/deerhunter-octet(SMD_remix).mp3">Deerhunter: Octet (Simian Mobile Disco remix)</a></p>
+<p>I&#8217;ve been meaning to post this one for a bit, and haven&#8217;t had an opportunity. It&#8217;s interesting to me what a couple of guys I generally tend to avoid (SMD) do to my favorite song off of one of my favorite albums of 07 (Deerhunter&#8217;s <em>Cryptograms</em>) &#8230;mostly because it&#8217;s heady, trippy, and it works. In spades.</p>
+<p>As I said earlier&#8230;while I wait for 2009 to show its colors, I&#8217;m going to keep <em>Microcastle</em> in my headphones.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=k19YGJ.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=k19YGJ.P" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=tLpTrk.P"><img src="http://feeds.feedburner.com/~f/Resonator?i=tLpTrk.P" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/505364061" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2009/01/07/adjust-your-eyes-to-the-state-of-things/feed/</wfw:commentRss>
+			<enclosure url="http://www.resonatormag.com/music/deerhunter-never_stops_platts_island_session.mp3" length="4834934" type="audio/mpeg"/>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2009%2F01%2F07%2Fadjust-your-eyes-to-the-state-of-things%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2009/01/07/adjust-your-eyes-to-the-state-of-things/</feedburner:origLink>
+			<enclosure url="http://feeds.feedburner.com/~r/Resonator/~5/505364062/deerhunter-nothing_ever_happened.mp3" length="11233605" type="audio/mpeg"/>
+			<feedburner:origEnclosureLink>http://www.resonatormag.com/music/deerhunter-nothing_ever_happened.mp3</feedburner:origEnclosureLink>
+		</item>
+		<item>
+			<title>Shuttle: Just In Time</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/499729359/</link>
+			<comments>http://www.resonatormag.com/2008/12/31/shuttle-just-in-time/#comments</comments>
+			<pubDate>Wed, 31 Dec 2008 21:04:44 +0000</pubDate>
+			<dc:creator>hacks</dc:creator>
+			<category><![CDATA[Shuttle]]></category>
+			<category><![CDATA[Mp3]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2008/12/31/shuttle-just-in-time/</guid>
+			<description><![CDATA[
+
+Shuttle is a name you most likely don&#8217;t know, however I&#8217;m sure you&#8217;ve heard him before as its the new moniker for Boston&#8217;s very own Etan (most recently of Passion Pit fame, but he&#8217;s always been one of Basstown&#8217;s darlings). He comes roaring out of the gate with an eclectic and very well done mix [...]]]></description>
+			<content:encoded><![CDATA[<div align="center"><img src='http://www.resonatormag.com/wp-content/uploads/2008/12/shuttle.jpg' alt='Shuttle' /></div>
+<p><br/></p>
+<p><a href="http://www.facebook.com/pages/Shuttle/36065496748">Shuttle</a> is a name you most likely don&#8217;t know, however I&#8217;m sure you&#8217;ve heard him before as its the new moniker for Boston&#8217;s very own Etan (most recently of <a href="http://www.myspace.com/passionpitjams">Passion Pit</a> fame, but he&#8217;s always been one of <a href="http://basstown.blogspot.com/">Basstown&#8217;s</a> darlings). He comes roaring out of the gate with an eclectic and very well done mix for the masses.</p>
+<p>Additionally, he&#8217;ll be putting out a release on <a href="http://www.ninjatune.net/">Ninja Tune</a> in March with a track featuring <a href="http://www.myspace.com/cadenceweaponmusic">Cadence Weapon</a>. I&#8217;m sure we&#8217;ll get the hookup and you, our loyal readers (and haters) will get the low down.</p>
+<p><a href="http://www.resonatormag.com/music/2008/12/Shuttle - The Vostok 1 Mixtape.mp3">Shuttle - The Vostok 1 Mixtape</a> (Tracklisting below the cut)</p>
+<p>And, since no post is complete without remixes, here&#8217;s some of my favorites! I was going to post a newer mix he did as Shuttle, but zshare is being retarded AGAIN and just looping me in circles instead of, you know, letting me download the file&#8230; Why would I ever want to do that?</p>
+<p><a href="http://www.resonatormag.com/music/2008/12/The Death Set - Impossible (Etan Impossible Outlook Take8).mp3">The Death Set - &#8220;Impossible (Etan Impossible Outlook Take8)&#8221;</a><br />
+LINKS: <a href="http://www.thedeathset.com/">The Death Set</a> | <a href="http://www.myspace.com/thedeathset ">Death Set MySpace</a></p>
+<p><a href="http://www.resonatormag.com/music/2008/12/Daedelus - Hrs Mins Secs (Etan remix).mp3">Daedelus - &#8220;Hrs Mins Secs (Etan remix)&#8221;</a><br />
+LINKS: <a href="http://www.myspace.com/daedelusdarling">Daedelus</a></p>
+<p><a href="http://www.resonatormag.com/music/2008/12/The Little Ones - Morning Tide (Etan Groundswell Take).mp3">The Little Ones - &#8220;Morning Tide (Etan Groundswell Take)&#8221;</a><br />
+LINKS: <a href="http://www.wearethelittleones.com/">The Little Ones</a> | <a href="http://www.myspace.com/wearethelittleones">Little Ones MySpace</a></p>
+<p>So be sure and swing by either his <a href="http://www.myspace.com/shuttle">MySpace</a> or <a href="http://www.facebook.com/pages/Shuttle/36065496748">Facebook</a> and give him a Resonator high five. Rock out the New year everyone!</p>
+<p>(Also, this post is &#8220;best of&#8221; free.)</p>
+<p>&lt; hacks /&gt;</p>
+<p> <a href="http://www.resonatormag.com/2008/12/31/shuttle-just-in-time/#more-623" class="more-link">(more&#8230;)</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=dQ5ogo.O"><img src="http://feeds.feedburner.com/~f/Resonator?i=dQ5ogo.O" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=Hz9zoG.O"><img src="http://feeds.feedburner.com/~f/Resonator?i=Hz9zoG.O" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/499729359" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2008/12/31/shuttle-just-in-time/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2008%2F12%2F31%2Fshuttle-just-in-time%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2008/12/31/shuttle-just-in-time/</feedburner:origLink>
+		</item>
+		<item>
+			<title>Post-blue</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/495776644/</link>
+			<comments>http://www.resonatormag.com/2008/12/26/post-blue/#comments</comments>
+			<pubDate>Fri, 26 Dec 2008 19:22:18 +0000</pubDate>
+			<dc:creator>shaun bateman</dc:creator>
+			<category><![CDATA[High Places]]></category>
+			<category><![CDATA[Mp3]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2008/12/26/post-blue/</guid>
+			<description><![CDATA[
+High Places: From Stardust To Sentience 
+This is a beautiful, pensive piece of ambient experimentation, and, in the quiet, not-cold-enough wake of the long stretch of winter holidays, it feels right at this moment.
+]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.resonatormag.com/wp-content/uploads/2008/12/fire.jpg" alt="fire.jpg" /></p>
+<p><a href="http://www.resonatormag.com/music/high_places-from_stardust_to_sentience.mp3">High Places: From Stardust To Sentience </a></p>
+<p>This is a beautiful, pensive piece of ambient experimentation, and, in the quiet, not-cold-enough wake of the long stretch of winter holidays, it feels right at this moment.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=OikkO"><img src="http://feeds.feedburner.com/~f/Resonator?i=OikkO" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=3RtPO"><img src="http://feeds.feedburner.com/~f/Resonator?i=3RtPO" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/495776644" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2008/12/26/post-blue/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2008%2F12%2F26%2Fpost-blue%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2008/12/26/post-blue/</feedburner:origLink>
+			<enclosure url="http://feeds.feedburner.com/~r/Resonator/~5/495776645/high_places-from_stardust_to_sentience.mp3" length="5292779" type="audio/mpeg"/>
+			<feedburner:origEnclosureLink>http://www.resonatormag.com/music/high_places-from_stardust_to_sentience.mp3</feedburner:origEnclosureLink>
+		</item>
+		<item>
+			<title>ZZZzzzZZZzzzZZZzzzZZZ &amp; the Lowbrows</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/489872880/</link>
+			<comments>http://www.resonatormag.com/2008/12/19/zzzzzzzzzzzzzzzzzzzzz-the-lowbrows/#comments</comments>
+			<pubDate>Fri, 19 Dec 2008 18:08:31 +0000</pubDate>
+			<dc:creator>hacks</dc:creator>
+			<category><![CDATA[The Lowbrows]]></category>
+			<category><![CDATA[ZZZ]]></category>
+			<category><![CDATA[Modular]]></category>
+			<category><![CDATA[Mp3]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2008/12/19/zzzzzzzzzzzzzzzzzzzzz-the-lowbrows/</guid>
+			<description><![CDATA[
+Maybe you remember ZZZ?
+Maybe you remember their piano-grunge track called &#8220;Lion&#8221;? Its sweeping intro and nasty gritty breakdown? Its a shame if you don&#8217;t &#8211;it was a great track to listen to, but sadly the quality was something to be desired. But have no fear!
+ZZZ is now back with a proper release of &#8220;Lion&#8221; featuring [...]]]></description>
+			<content:encoded><![CDATA[<div align="center"><img src='http://www.resonatormag.com/wp-content/uploads/2008/12/bang018.jpg' alt='ZZZ - Lion | Out Now on Modular Records' /></div>
+<p>Maybe you remember <a href="http://www.myspace.com/zzzoinkz">ZZZ</a>?</p>
+<p>Maybe you remember their piano-grunge track called &#8220;Lion&#8221;? Its sweeping intro and nasty gritty breakdown? Its a shame if you don&#8217;t &#8211;it was a great track to listen to, but sadly the quality was something to be desired. But have no fear!</p>
+<p><a href="http://www.myspace.com/zzzoinkz">ZZZ</a> is now back with a proper release of &#8220;Lion&#8221; featuring a reprise -&#8221;Leonine&#8221;- on the A side, and three quality remixes on the B.<a href="http://www.bagraiders.com/"> Bag Raiders</a> and <a href="http://myspace.com/dothefunkybot">Breakbot</a> are the two big names that I&#8217;m sure will recognize, but my favorite of the bunch comes from Toyko based <a href="http://www.myspace.com/thelowbrows">Lowbrows</a>.</p>
+<p>Forgoing some of the grittiness of the original, <a href="http://www.myspace.com/thelowbrows">The Lowbrows</a> turn &#8220;Lion&#8221; into a full on afro-wearing king of the dance floor track. I played it this week with much success, and I think that you too, will have the kids dancing.</p>
+<p><a href="http://www.resonatormag.com/music/2008/12/ZZZ - Lion (Lowbrows Remix).mp3">ZZZ - &#8220;Lion (Lowbrows Remix)&#8221;</a><br />
+LINKS: <a href="http://www.myspace.com/thelowbrows">The Lowbrows</a> | <a href="http://www.myspace.com/zzzoinkz">ZZZ</a></p>
+<p>You can check out the full release on Modular Records, its out&#8230;. NOW at the following locations<br />
+<a href="http://www.juno.co.uk/">http://www.juno.co.uk/</a><br />
+<a href="http://www.spankrecords.com.au/">http://www.spankrecords.com.au/</a><br />
+<a href="https://www.modularpeople.com/themodshop/">https://www.modularpeople.com/themodshop/</a></p>
+<p>Get Dancing!</p>
+<p>&lt; hacks /&gt;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=ua2HO"><img src="http://feeds.feedburner.com/~f/Resonator?i=ua2HO" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=iOwsO"><img src="http://feeds.feedburner.com/~f/Resonator?i=iOwsO" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/489872880" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2008/12/19/zzzzzzzzzzzzzzzzzzzzz-the-lowbrows/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2008%2F12%2F19%2Fzzzzzzzzzzzzzzzzzzzzz-the-lowbrows%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2008/12/19/zzzzzzzzzzzzzzzzzzzzz-the-lowbrows/</feedburner:origLink>
+		</item>
+		<item>
+			<title>Bruised and battered</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/481064808/</link>
+			<comments>http://www.resonatormag.com/2008/12/10/bruised-and-battered/#comments</comments>
+			<pubDate>Wed, 10 Dec 2008 23:18:20 +0000</pubDate>
+			<dc:creator>shaun bateman</dc:creator>
+			<category><![CDATA[Salem]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2008/12/10/bruised-and-battered/</guid>
+			<description><![CDATA[There is absolutely no stopping the ways in which both my brain and my heart warp, melt, shiver and collapse each time a Salem song starts. It&#8217;s phenomenal that, in the short time that they&#8217;ve been actually in my frame of consciousness, they have become both a standard and a trademark. Fear-inducing, nail-biting low-end with [...]]]></description>
+			<content:encoded><![CDATA[<p>There is absolutely no stopping the ways in which both my brain and my heart warp, melt, shiver and collapse each time a Salem song starts. It&#8217;s phenomenal that, in<a href="http://www.resonatormag.com/tags/artists/salem/"> the short time that they&#8217;ve been actually in my frame of consciousness</a>, they have become both a standard and a trademark. Fear-inducing, nail-biting low-end with chopped-and-screwed melodies and a toss-up of either the sweetest, lucid female vocals or the most menacing, destructive goblin-in-the-night-to-rape-your-children voice possible. A completely original and at-times-unpalatable sound that just may become a touchstone of something new entirely.</p>
+<p>Anyway, Salem, via <a href="http://merok.bigcartel.com/product/salem-water-ep-pre-order">Merok Records</a>, has a new EP, <em>Water </em></p>
+<p><img src="http://bigcartel.com/account/34418/1349560/300.jpg" width="289" height="300" /></p>
+<p>Unlike Animal Collective&#8217;s similarly-named 2008 E.P. ,these four song are all actually curses, plagues and poxes on your nightmares and dreamscapes that suck you in and spit you out, raw and bleeding and begging for more. Audio nihilism?  Yes, please, and more, please, and thank you yes I do like it, please, like that, please.</p>
+<p><a href="http://www.resonatormag.com/music/salem-whenusleep.mp3">Salem: WhenUSleep</a></p>
+<p>A pornographic nightstory bedfable that conjures, in my head, images of the heavy-lidded Laura Palmer pouting her red lips.</p>
+<p>Pin yourself down and trap yourself in a room with this, in the dark, and see if you don&#8217;t reach a new level of existing.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=a4uQO"><img src="http://feeds.feedburner.com/~f/Resonator?i=a4uQO" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=KMTyO"><img src="http://feeds.feedburner.com/~f/Resonator?i=KMTyO" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/481064808" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2008/12/10/bruised-and-battered/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2008%2F12%2F10%2Fbruised-and-battered%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2008/12/10/bruised-and-battered/</feedburner:origLink>
+			<enclosure url="http://feeds.feedburner.com/~r/Resonator/~5/481064809/salem-whenusleep.mp3" length="3782334" type="audio/mpeg"/>
+			<feedburner:origEnclosureLink>http://www.resonatormag.com/music/salem-whenusleep.mp3</feedburner:origEnclosureLink>
+		</item>
+		<item>
+			<title>The Rawness of Fame (tonight, Atlanta, tonight)</title>
+			<link>http://feeds.feedburner.com/~r/Resonator/~3/476700232/</link>
+			<comments>http://www.resonatormag.com/2008/12/06/the-rawness-of-fame-tonight-atlanta-tonight/#comments</comments>
+			<pubDate>Sat, 06 Dec 2008 15:09:42 +0000</pubDate>
+			<dc:creator>shaun bateman</dc:creator>
+			<category><![CDATA[The Swear]]></category>
+			<guid isPermaLink="false">http://www.resonatormag.com/2008/12/06/the-rawness-of-fame-tonight-atlanta-tonight/</guid>
+			<description><![CDATA[If you&#8217;re  in Atlanta, you&#8217;re obviously not at Blip. And that means that you are in need of a Resonator-approval-stamped means of entertainment tonight. It IS Saturday, after all-what, are you like 90? Are you going to stay inside and nurse a hot toddy or a hot teddy or whatever it is that you old [...]]]></description>
+			<content:encoded><![CDATA[<p>If you&#8217;re  in Atlanta, you&#8217;re obviously not at <a href="http://www.resonatormag.com/2008/12/04/blip-fest-2008-mega-post/">Blip</a>. And that means that you are in need of a Resonator-approval-stamped means of entertainment tonight. It IS Saturday, after all-what, are you like 90? Are you going to stay inside and nurse a hot toddy or a hot teddy or whatever it is that you old people drink? You&#8217;d know better than I would, after all.</p>
+<p>Tonight (Saturday, the&#8230;6th. Yes! The 6th!). Atlanta. <a href="http://thedrunkenunicorn.net/">The Drunken Unicorn</a> (a venue I only recently learned has a name that incites amused chuckles from those who are hearing/reading it for the first time).</p>
+<p>This:</p>
+<p><img src="http://photos-b.ak.fbcdn.net/photos-ak-sf2p/v650/121/91/550491656/n550491656_1586889_712.jpg" width="300" height="464" /></p>
+<p>In addition to being sponsored by a plethora of fantastic folks all deserving of your attention (<a href="http://www.stickfiguredistro.com/">Stickfigure Records</a>, <a href="http://www.wonderroot.org/">WonderRoot</a>, etc), the highlight of this, for yours truly, is the first time I&#8217;ll be seeing The Swear since their release of their criminally under-noticed full-length <em>Hotel Rooms and Heart Attacks</em> this year.</p>
+<p><img src="http://profile.ak.facebook.com/object3/1244/115/l14055078623_8050.jpg" width="396" height="297" /></p>
+<p>It&#8217;s long since been lost in the Resonator shufflings, but you may recall that like a billion years ago Hacks and I saw The Swear play an opening set for The Subways (hey, where did THEY go?) and they utterly floored us. This is a rock band that puts on a real, honest-to-god ROCK show with heavy, intelligent and melodic tunes to match.</p>
+<p><a href="http://www.resonatormag.com/music/the_swear-vampire.mp3">The Swear: Vampire </a></p>
+<p>While &#8220;Vampire&#8221; isn&#8217;t my favorite tune off of <em>Hotel Rooms And Heart Attacks </em>,</p>
+<p>A) I can&#8217;t settle on just ONE song, it takes about a trio of them, played back-to-back, for me to sufficiently feel like I&#8217;ve captured the many moods of the record</p>
+<p>B)It IS the first song on the album, and it&#8217;s raging.</p>
+<p>After an initial fake-out panning, &#8220;Vampire&#8221; utterly SLAYS (no pun intended), so watch your speaker volume. This has the entire band firing on all cylinders, with frontwoman Elizabeth Elkins wasting no time and leaving a trail of bodies from the rock scene as we know it. &#8220;I&#8217;m jealous/I won&#8217;t lie&#8221;, the song begins, before the explosive chorus cry of &#8220;you stole my fame&#8221;.</p>
+<p>It&#8217;s a total powerful kiss-off of a song. Again, it&#8217;s not my favorite on the album, but it&#8217;s a good starting point. The best way to experience The Swear, though? Live.</p>
+<p>So do that. Tonight. And hold me accountable to writing more about <em>Hotel Rooms and Heart Attacks</em> here.</p>
+<p><a href="http://theswear.com/">The Swear </a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/Resonator?a=NrD9O"><img src="http://feeds.feedburner.com/~f/Resonator?i=NrD9O" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/Resonator?a=thsEO"><img src="http://feeds.feedburner.com/~f/Resonator?i=thsEO" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Resonator/~4/476700232" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://www.resonatormag.com/2008/12/06/the-rawness-of-fame-tonight-atlanta-tonight/feed/</wfw:commentRss>
+			<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetItemData?uri=Resonator&amp;itemurl=http%3A%2F%2Fwww.resonatormag.com%2F2008%2F12%2F06%2Fthe-rawness-of-fame-tonight-atlanta-tonight%2F</feedburner:awareness>
+			<feedburner:origLink>http://www.resonatormag.com/2008/12/06/the-rawness-of-fame-tonight-atlanta-tonight/</feedburner:origLink>
+			<enclosure url="http://feeds.feedburner.com/~r/Resonator/~5/476700233/the_swear-vampire.mp3" length="3120730" type="audio/mpeg"/>
+			<feedburner:origEnclosureLink>http://www.resonatormag.com/music/the_swear-vampire.mp3</feedburner:origEnclosureLink>
+		</item>
+		<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=Resonator</feedburner:awareness>
+	</channel>
+</rss>
