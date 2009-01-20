@@ -1,10 +1,10 @@
-require 'lib/feedlicker'
+require 'lib/feednectar'
 
-feed = Feedlicker::Feed.new :file => "test/xml/SchitzPopinov.xml"
+feed = Feednectar::Feed.new :file => "test/xml/resonator.xml"
 
-feed.hp.entries.each do |entry|
-  html = Hpricot.parse(entry.content)
-  (html/:a).each do |link|
-    puts link
-  end
+mp3s = feed.find_content_by_type 'mp3'
+
+mp3s.each do |link|
+  puts link[:url]
+  puts link[:description]
 end
