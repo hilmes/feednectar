@@ -1,6 +1,6 @@
 require 'lib/feednectar'
 
-feed = Feednectar::Feed.new :file => "test/xml/resonator.xml"
+feed = Feednectar::Feed.new :url => %q{http://feeds.feedburner.com/DiscoDust}
 
 mp3s = feed.find_content_by_type 'mp3'
 
