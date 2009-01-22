@@ -7,4 +7,4 @@ mp3s = feed.find_content_by_type 'mp3'
 mp3s.each do |link|
   puts link[:url]
   puts link[:description]
-end
+end if mp3s
